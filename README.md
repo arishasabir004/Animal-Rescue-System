@@ -1,5 +1,3 @@
-This is a comprehensive README.md file for your Animal Rescue Management System. It covers the architecture of your Flask application, the database integration, and how to get everything running.
-
 🐾 Animal Rescue Management System
 The Animal Rescue Management System is a full-stack web application designed to help animal shelters manage their daily operations. It provides a centralized platform to track animal intakes, adoption records, shelter capacities, and volunteer contributions.
 
